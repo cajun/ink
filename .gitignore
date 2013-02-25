@@ -3,11 +3,13 @@
 .bundle
 .config
 .yardoc
+.gems
 Gemfile.lock
 InstalledFiles
 _yardoc
 coverage
 doc/
+bin/
 lib/bundler/man
 pkg
 rdoc
