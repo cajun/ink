@@ -1,4 +1,4 @@
-Copyright (c) 2013 Zac
+Copyright (c) 2013 cajun
 
 MIT License
 
